@@ -59,3 +59,11 @@ public class Odd_Even_array1
 
     }
 }
+
+/*
+OUTPUT:
+Enter the number of elements: 5
+Enter the elements: 1 8 10 13 17
+[1,8,10,13,17]
+[8,10]
+[1,13,17]*/
