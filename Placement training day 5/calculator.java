@@ -79,3 +79,15 @@ public class calculator {
     }
     
 }
+/*
+OUTPUT:
+Choose an operation
+1.+
+2.-
+3.*
+4./
+/
+Enter the first number:3.8
+Enter the second number:0
+Invalid Operation: Cannot divide by zero
+*/
