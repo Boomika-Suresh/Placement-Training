@@ -32,3 +32,7 @@ public class Lucky_number{
         return num;
     }
 }
+
+/*OUTPUT
+Enter a number:68
+True : The given number is a happy number!*/
