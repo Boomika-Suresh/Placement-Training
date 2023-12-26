@@ -10,3 +10,8 @@ public class Main
 		System.out.print("The entered integer is : " +a);
 	}
 }
+/*
+OUTPUT:
+Enter a integer: 67
+The entered integer is : 67
+*/
