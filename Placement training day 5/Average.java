@@ -12,3 +12,8 @@ public class Average
         input.close();
 	}
 }
+/*
+OUTPUT:
+Enter the first floating-point number: 2.7
+Enter the second floating-point number: 6.99
+The average of the two numbers is 4.84 */
